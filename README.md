@@ -18,6 +18,6 @@
 * GO 1.23.4
 * Rust desk
 * Grafana
-* PostgreeSQL 17
+* PostgreSQL 17
 * Docker
 * LXC
