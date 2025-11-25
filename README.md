@@ -6,7 +6,13 @@
 
 В дальнейшем планировалось реализовать удаленный доступ к станции через Rust desk.
 
-## Recommended IDE Setup[VSCode](https://code.visualstudio.com/)
+![Main](Main.png)
+![Main](Second.png)
+![Main](Third.png)
+![Main](Fourth.png)
+
+## Recommended IDE Setup 
+[VSCode](https://code.visualstudio.com/)
 
 ## Project Setup
 ```sh
